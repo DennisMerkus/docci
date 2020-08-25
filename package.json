@@ -1,9 +1,9 @@
 {
   "name": "docci",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "dist/main.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/main.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build",
