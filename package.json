@@ -1,0 +1,30 @@
+{
+  "name": "docci",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DennisMerkus/docci.git"
+  },
+  "author": "Dennis Merkus <dennis.merkus@pm.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennisMerkus/docci/issues"
+  },
+  "homepage": "https://github.com/DennisMerkus/docci#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.10",
+    "typescript": "^4.0.2"
+  }
+}
